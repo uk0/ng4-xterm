@@ -1,0 +1,28 @@
+{
+  "name": "ng4-xterm",
+  "version": "2.0.0",
+  "description": "on line the xterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start:test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmatsh/ng4-xterm.git"
+  },
+  "keywords": [
+    "docker",
+    "typescript",
+    "container",
+    "xterm"
+  ],
+  "author": "zhangjianxin",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/zmatsh/ng4-xterm/issues"
+  },
+  "homepage": "https://github.com/zmatsh/ng4-xterm#readme",
+  "dependencies": {
+    "socket.io": "^1.7.4"
+  }
+}

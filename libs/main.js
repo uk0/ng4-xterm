@@ -23,9 +23,9 @@
             this.socket.disconnect();
             location.reload();
         },
-        //提交聊天消息内容
+        //提交bash内容
         submit:function(){
-            var content = d.getElementById("content").value;
+            var content = d.getElementById("content_bash").value;
             if(content != ''){
                 var obj = {
                     containerid: this.containerId,
